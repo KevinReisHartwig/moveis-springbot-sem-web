@@ -11,6 +11,7 @@ Este projeto é uma aplicação Java Spring Boot que inclui duas versões: uma v
 - Spring Boot
 - JPA (Java Persistence API)
 - Hibernate
+- PostgreSQL
 ### Frontend:
 
 - HTML
